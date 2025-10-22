@@ -1,5 +1,7 @@
 # Blinkit-Sales-Dashboard
-# 🟡 Blinkit Sales Dashboard | Power BI Project  
+# 🟡 Blinkit Sales Dashboard | Power BI Project 
+![Blinkit Dashboard](blinkit0.jpg)
+
 
 An interactive **Blinkit Sales Dashboard** built in **Power BI** to analyze sales performance, outlet trends, and product insights for Blinkit — India’s last-minute delivery app.  
 
